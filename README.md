@@ -42,9 +42,12 @@ Non-inverting amplifier:
 <img width="459" height="341" alt="image" src="https://github.com/user-attachments/assets/d7c90647-e012-4cef-978c-6ab6e9509d90" />
 
 ## TABULATION:
+![WhatsApp Image 2025-11-16 at 18 26 36_bfdb9bfc](https://github.com/user-attachments/assets/ff250d2a-c6c9-4dc4-8308-9300fd0e4743)
 
 
 ## GRAPH:
+![WhatsApp Image 2025-11-16 at 18 27 06_cc13cd02](https://github.com/user-attachments/assets/ea472e2b-8dad-4e04-b298-e9d3cccdbbdd)
 
 
 ## RESULT:
+![WhatsApp Image 2025-11-16 at 18 07 16_e18d8c95](https://github.com/user-attachments/assets/164bc8f9-f527-4970-9f35-626f0ebdb091)
